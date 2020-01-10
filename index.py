@@ -9,3 +9,6 @@ varDog = "herro hooman"
 
 print (varAlien + " is a whale")
 
+for i in range(1, len(varDog)):
+    print(i)
+
