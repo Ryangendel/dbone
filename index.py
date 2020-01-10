@@ -2,6 +2,7 @@ varPerson = "Ryan"
 
 varAlien = "Tommy"
 
+
 varDog = "herro hooman"
 
 #hi
@@ -20,5 +21,8 @@ print("hello")
 #HI
 
 
-#what up ya foolsss
 
+
+print(dog)
+print(alien)
+print("hello")
