@@ -1,3 +1,10 @@
 var person = "Ryan"
 
-var otherPerson ="Tommy"
+var alien = "Tommy"
+
+var dog = "Sorry toommy didnt mean that"
+
+
+print(dog)
+print(alien)
+print("hello")
