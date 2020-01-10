@@ -2,6 +2,7 @@ varPerson = "Ryan"
 
 varAlien = "Tommy"
 
+
 varDog = "herro hooman"
 
 #hi
@@ -20,7 +21,14 @@ print("hello")
 #HI
 
 
-#what up ya foolsss
 
 #yoooooooooooo
+
+
+print(dog)
+print(alien)
+print("hello")
+
+
+#spongebobble
 
