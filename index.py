@@ -1,7 +1,11 @@
-var person = "Ryan"
+varPerson = "Ryan"
 
-var alien = "Tommy"
+varAlien = "Tommy"
 
-var dog = "herro hooman"
+varDog = "herro hooman"
 
 #hi
+
+
+print (varAlien + " is a whale")
+
